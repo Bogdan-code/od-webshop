@@ -14,14 +14,14 @@ Du får välja att bygga vad du vill så länge det är rimliga projekt. Du kan 
 
 #### Exempel på tidigare projekt
 
-![Webshop](docs/img/OmrFifa.jpg)  
+![Webshop](docs/img/recept.png)  
+*Elevexempel: Recepsida*
+
+![Webshop](docs/img/webshop-fiske.png)  
 *Elevexempel: Webshop*
 
-![Pokemon](docs/img/LBFPokemon.jpg)  
-*Elevexempel: Pokemon*
-
-![Casino](docs/img/CasinoArkBra.jpg)  
-*Elevexempel: Casino*
+![Webshop](docs/img/korkortsquiz.png)  
+*Elevexempel: Körkortsquiz*
 
 ### Uppgiftsbeskrivning & specifikation
 - Webbapplikation i `Ruby` med `Sinatra` och `SQLite`. 
